@@ -126,8 +126,8 @@ This project demonstrates integration between:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AvishkarPatil/IndustriSense.git
-   cd IndustriSense
+   git clone https://github.com/Vaibhavi45/IndustrySense-Master.git
+   cd IndustrySense-Master
    ```
 
 2. Configure environment:
@@ -156,8 +156,9 @@ This project demonstrates integration between:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AvishkarPatil/IndustriSense.git
-   cd IndustriSense/backend
+   git clone https://github.com/Vaibhavi45/IndustrySense-Master.git
+   cd IndustrySense-Master
+  
    ```
 
 2. Install Python dependencies:
